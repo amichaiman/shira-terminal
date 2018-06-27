@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/shira_terminal.dir/main.cpp.o CMakeFiles/shira_terminal.dir/Terminal.cpp.o CMakeFiles/shira_terminal.dir/mainFunctions.cpp.o CMakeFiles/shira_terminal.dir/File.cpp.o  -o shira_terminal 
